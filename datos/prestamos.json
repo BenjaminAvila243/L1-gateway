@@ -1,0 +1,79 @@
+{
+  "generado": "2026-09-12T02:04:48.845Z",
+  "fuente": "google-books:ciencia ficcion",
+  "sinopsis": "openai/gpt-oss-20b",
+  "prestamos": [
+    {
+      "id": 1,
+      "libroId": 1,
+      "usuarioSub": "b4e8a478-4021-702d-4fd9-a45fad17e970",
+      "desde": "2026-08-29",
+      "hasta": "2026-09-12",
+      "devuelto": true
+    },
+    {
+      "id": 2,
+      "libroId": 4,
+      "usuarioSub": "b4e8a478-4021-702d-4fd9-a45fad17e970",
+      "desde": "2026-08-30",
+      "hasta": "2026-09-13",
+      "devuelto": false
+    },
+    {
+      "id": 3,
+      "libroId": 7,
+      "usuarioSub": "b4e8a478-4021-702d-4fd9-a45fad17e970",
+      "desde": "2026-08-31",
+      "hasta": "2026-09-14",
+      "devuelto": false
+    },
+    {
+      "id": 4,
+      "libroId": 10,
+      "usuarioSub": "b4e8a478-4021-702d-4fd9-a45fad17e970",
+      "desde": "2026-09-01",
+      "hasta": "2026-09-15",
+      "devuelto": false
+    },
+    {
+      "id": 5,
+      "libroId": 13,
+      "usuarioSub": "b4e8a478-4021-702d-4fd9-a45fad17e970",
+      "desde": "2026-09-02",
+      "hasta": "2026-09-16",
+      "devuelto": true
+    },
+    {
+      "id": 6,
+      "libroId": 16,
+      "usuarioSub": "00000000-0000-4000-8000-000000000001",
+      "desde": "2026-09-03",
+      "hasta": "2026-09-17",
+      "devuelto": false
+    },
+    {
+      "id": 7,
+      "libroId": 2,
+      "usuarioSub": "00000000-0000-4000-8000-000000000001",
+      "desde": "2026-09-04",
+      "hasta": "2026-09-18",
+      "devuelto": false
+    },
+    {
+      "id": 8,
+      "libroId": 5,
+      "usuarioSub": "00000000-0000-4000-8000-000000000001",
+      "desde": "2026-09-05",
+      "hasta": "2026-09-19",
+      "devuelto": false
+    },
+    {
+      "libroId": 2,
+      "usuarioSub": "f4e8f428-6061-7048-cdec-5edb9e11d6fb",
+      "desde": "2026-09-14",
+      "hasta": "2026-09-28",
+      "devuelto": false,
+      "id": 9
+    }
+  ]
+}

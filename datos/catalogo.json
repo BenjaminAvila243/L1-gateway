@@ -1,0 +1,194 @@
+{
+  "generado": "2026-09-12T02:04:48.845Z",
+  "fuente": "google-books:ciencia ficcion",
+  "sinopsis": "openai/gpt-oss-20b",
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "Peliculas claves del cine de ciencia-ficcion",
+      "autor": "Sergi Sánchez",
+      "anio": 2007,
+      "paginas": 284,
+      "categoria": "performing arts",
+      "isbn13": "9788496924062",
+      "sinopsis": "Estudio sobre películas revolucionarias del cine de ciencia ficción, su evolución y impacto cultural.",
+      "ejemplares": 1
+    },
+    {
+      "id": 2,
+      "titulo": "El cine de ciencia ficción",
+      "autor": "J. P. Telotte",
+      "anio": 2002,
+      "paginas": 284,
+      "categoria": "performing arts",
+      "isbn13": "9788483233047",
+      "sinopsis": "Exploración detallada de la historia, géneros y teorías clave del cine de ciencia ficción.",
+      "ejemplares": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Teatro, ciencias y ciencia ficción en las dos primeras décadas del siglo XXI",
+      "autor": "José Romera Castillo",
+      "anio": 2023,
+      "paginas": 365,
+      "categoria": "performing arts",
+      "isbn13": "9788413379340",
+      "sinopsis": "Análisis de la interacción entre teatro, ciencia y ciencia ficción en el siglo XXI.",
+      "ejemplares": 3
+    },
+    {
+      "id": 4,
+      "titulo": "La ciencia ficción",
+      "autor": "René Rebetez",
+      "anio": 1966,
+      "paginas": 106,
+      "categoria": "science fiction",
+      "isbn13": null,
+      "sinopsis": "Revisión exhaustiva de los principales temas y movimientos en la ciencia ficción mundial.",
+      "ejemplares": 4
+    },
+    {
+      "id": 5,
+      "titulo": "Lo Mejor de la ciencia ficción española",
+      "autor": "Domingo Santos",
+      "anio": 1982,
+      "paginas": 332,
+      "categoria": "science fiction, spanish",
+      "isbn13": null,
+      "sinopsis": "Colección de los mejores relatos y obras destacadas de la ciencia ficción española.",
+      "ejemplares": 1
+    },
+    {
+      "id": 6,
+      "titulo": "La ciencia ficción",
+      "autor": "Jean Gattégno",
+      "anio": 1985,
+      "paginas": 152,
+      "categoria": "science fiction",
+      "isbn13": null,
+      "sinopsis": "Ensayo crítico sobre la evolución y tendencias contemporáneas de la ciencia ficción.",
+      "ejemplares": 2
+    },
+    {
+      "id": 7,
+      "titulo": "La ciencia ficción",
+      "autor": "Gabriel Trujillo Muñoz",
+      "anio": 1991,
+      "paginas": 356,
+      "categoria": "science fiction",
+      "isbn13": null,
+      "sinopsis": "Estudio sobre la narrativa, personajes y tecnología en la literatura de ciencia ficción.",
+      "ejemplares": 3
+    },
+    {
+      "id": 8,
+      "titulo": "El mundo de la ciencia ficción",
+      "autor": "Pablo Capanna",
+      "anio": 1992,
+      "paginas": 204,
+      "categoria": "science fiction",
+      "isbn13": null,
+      "sinopsis": "Exploración de mundos imaginarios y avances científicos en la ciencia ficción global.",
+      "ejemplares": 4
+    },
+    {
+      "id": 9,
+      "titulo": "Cuentos de ciencia-ficción",
+      "autor": "Carlos Cabada",
+      "anio": 1964,
+      "paginas": 176,
+      "categoria": "sin categoria",
+      "isbn13": null,
+      "sinopsis": "Selección de cuentos originales que combinan aventura y especulación científica.",
+      "ejemplares": 1
+    },
+    {
+      "id": 10,
+      "titulo": "Antología de la ciencia ficción española, 1982-2002",
+      "autor": "Julián Díez",
+      "anio": 2003,
+      "paginas": 386,
+      "categoria": "science fiction, spanish",
+      "isbn13": null,
+      "sinopsis": "Antología que reúne obras representativas de la ciencia ficción española entre 1982 y 2002.",
+      "ejemplares": 2
+    },
+    {
+      "id": 11,
+      "titulo": "Guía para el lector de ciencia ficción",
+      "autor": "Aníbal Miguel Vinelli",
+      "anio": 1977,
+      "paginas": 106,
+      "categoria": "science fiction",
+      "isbn13": null,
+      "sinopsis": "Guía práctica para lectores que quieren explorar el género de la ciencia ficción.",
+      "ejemplares": 3
+    },
+    {
+      "id": 12,
+      "titulo": "Historia de la ciencia ficción en España",
+      "autor": "Carlos Sainz Cidoncha",
+      "anio": 1976,
+      "paginas": 220,
+      "categoria": "science fiction",
+      "isbn13": null,
+      "sinopsis": "Historia profunda de la ciencia ficción en España, sus hitos y autores esenciales.",
+      "ejemplares": 4
+    },
+    {
+      "id": 13,
+      "titulo": "Cuentos sociales de ciencia-ficción",
+      "autor": "Juan Rivera Saavedra",
+      "anio": 1976,
+      "paginas": 60,
+      "categoria": "science fiction, peruvian",
+      "isbn13": null,
+      "sinopsis": "Recolección de relatos que fusionan ciencia ficción con problemáticas sociales contemporáneas.",
+      "ejemplares": 1
+    },
+    {
+      "id": 14,
+      "titulo": "La ciencia ficción en México",
+      "autor": "Gonzalo Martré",
+      "anio": 2004,
+      "paginas": 176,
+      "categoria": "science fiction, mexican",
+      "isbn13": null,
+      "sinopsis": "Análisis del desarrollo, influencias y producción de la ciencia ficción mexicana.",
+      "ejemplares": 2
+    },
+    {
+      "id": 15,
+      "titulo": "La novela de ciencia ficción",
+      "autor": "Juan Ignacio Ferreras",
+      "anio": 1972,
+      "paginas": 252,
+      "categoria": "literary criticism",
+      "isbn13": null,
+      "sinopsis": "Examen de la novela de ciencia ficción como forma literaria y sus tendencias actuales.",
+      "ejemplares": 3
+    },
+    {
+      "id": 16,
+      "titulo": "La ciencia ficción española",
+      "autor": "Fernando Martínez de la Hidalga",
+      "anio": 2002,
+      "paginas": 522,
+      "categoria": "book covers",
+      "isbn13": null,
+      "sinopsis": "Estudio sobre la evolución y particularidades de la ciencia ficción en España.",
+      "ejemplares": 4
+    },
+    {
+      "id": 17,
+      "titulo": "Fantasía de aventuras",
+      "autor": "Antonio Sánchez-Escalonilla",
+      "anio": 2009,
+      "paginas": 406,
+      "categoria": "art",
+      "isbn13": "9788434413115",
+      "sinopsis": "Narración épica que mezcla aventura fantástica con intrincados giros narrativos.",
+      "ejemplares": 1
+    }
+  ]
+}

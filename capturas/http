@@ -1,0 +1,16 @@
+GET /v1/libros HTTP/1.1
+Host: localhost:8080
+User-Agent: curl/8.21.0
+Accept: */*
+
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 276
+ETag: W/"114-ppgsYf3NgWIqpXpdD15CaNu9SyE"
+Date: Fri, 04 Sep 2026 02:30:55 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+[{"id":1,"titulo":"Cien a..os de soledad","autor":"Gabriel Garc..a M..rquez","anio":1967,"copias":4},{"id":2,"titulo":"La casa de los esp..ritus","autor":"Isabel Allende","anio":1982,"copias":2},{"id":3,"titulo":"Ficciones","autor":"Jorge Luis Borges","anio":1944,"copias":3}]
