@@ -1,4 +1,4 @@
-import {
+ import {
   Controller,
   ForbiddenException,
   Get,
@@ -7,6 +7,8 @@ import {
   UnauthorizedException,
 } from '@nestjs/common';
 import { verificar, tieneScope } from './auth/verificador';
+
+const LIBROS_URL = process.env.LIBROS_URL ?? 'http://localhost:3001';
 
 @Controller('v1/libros')
 export class LibrosController {
@@ -25,7 +27,7 @@ export class LibrosController {
       throw new ForbiddenException('te falta el permiso biblioteca/libros.leer');
     }
 
-    const respuesta = await fetch('http://localhost:3001/libros');
+    const respuesta = await fetch(`${LIBROS_URL}/libros`);
     return respuesta.json();
   }
 
